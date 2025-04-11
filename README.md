@@ -4,7 +4,7 @@
 
 Esta é uma implementação completa do backend de um clone do Airbnb construído com Spring Boot e PostgreSQL. A aplicação fornece funcionalidades robustas para gerenciamento de usuários, listagem de propriedades e serviços de reserva, seguindo princípios modernos de arquitetura de software.
 
-Acesse o repositório do front:[Airbnb-Frontend](https://github.com/MatheusOtenio/Airbnb-Clone_Angular-Front)
+Acesse o repositório do front: [Airbnb-Frontend](https://github.com/MatheusOtenio/Airbnb-Clone_Angular-Front)
 
 ![Tela inicial do projeto](img/1.png)
 
