@@ -1,6 +1,6 @@
 services:
   postgres:
-    image: 'postgres:latest'
+    image: "postgres:latest"
     volumes:
       - ~/volumes/codecake/postgresql/:/var/lib/postgresql/data
     environment:
